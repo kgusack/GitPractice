@@ -1,3 +1,6 @@
 This is text in Ward file.
 
 Adding a new set of line.
+
+Wise: yes this is a text file.
+
